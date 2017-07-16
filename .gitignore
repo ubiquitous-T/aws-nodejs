@@ -1,0 +1,10 @@
+config.json
+node_modules
+npm-debug.log
+
+*.swp
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
